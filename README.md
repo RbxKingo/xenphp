@@ -1,7 +1,5 @@
 <a href=""><img src="https://img.shields.io/badge/Xeno%20Executor-%20Download-blue?style=for-the-badge&logo=roblox" height="100"></a>
 
-<a href=""><img src="https://i.ytimg.com/vi/Fxyc1uxPII4/sddefault.jpg" height="400"></a>
-
 # Xeno Executor ⭐ Undetected Xeno Executor ⭐ Xeno Executor & Script Executor
 
 Xeno Executor is an advanced gaming tool designed to provide flawless performance for both gamers and developers. Renowned for its undetectable nature, it allows users to run scripts in various games without the risk of being banned. This powerful executor supports a wide range of script formats and ensures compatibility with popular game engines, making it the preferred choice for anyone seeking reliable and efficient script execution. Its user-friendly interface and advanced functionality make it stand out from competitors.
